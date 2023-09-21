@@ -1,7 +1,9 @@
-*.csv
-*.geojson
+#*.csv
+#*.geojson
 *.zip
 *.tif
 *.xml
 *.txt
 *.json
+*.html
+__pycache__/
