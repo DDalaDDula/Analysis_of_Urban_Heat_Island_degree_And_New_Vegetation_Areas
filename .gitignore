@@ -5,6 +5,6 @@
 *.xml
 *.txt
 *.json
-*.html
 *.jpeg
+*.html
 __pycache__/
